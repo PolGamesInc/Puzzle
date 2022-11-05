@@ -1,0 +1,1 @@
+шейдер legacy/particles/Alpha Blend

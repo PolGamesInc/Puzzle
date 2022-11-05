@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/1LVL.unity
+    guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 1
+    path: Assets/Scenes/2LVL.unity
+    guid: bd7131347af525f4aa3f6d3d04dfb2ef
+  - enabled: 1
+    path: Assets/Scenes/3LVL.unity
+    guid: 49555de92220841429fe349defd7841c
+  - enabled: 1
+    path: Assets/Scenes/4LVL.unity
+    guid: bcfbf2d8f3f064f40a04de61dd4d3c55
+  - enabled: 1
+    path: Assets/Scenes/5LVL.unity
+    guid: 1a0935cc97478bb429b72e47283d610a
+  - enabled: 1
+    path: Assets/Scenes/6LVL.unity
+    guid: 7fdfa450702214545be17f1ae711d9e1
+  - enabled: 1
+    path: Assets/Scenes/7LVL.unity
+    guid: 4df8be4ad2be1b040aa4d969dccd1c95
+  - enabled: 1
+    path: Assets/Scenes/8LVL.unity
+    guid: 248917af7e238fb41bfb7779a5055c13
+  - enabled: 1
+    path: Assets/Scenes/9 LVL.unity
+    guid: 7fc8d6ef7528c5a43930eccefdeae96b
+  - enabled: 1
+    path: Assets/Scenes/10 LVl.unity
+    guid: f62e364125ead8844b47682dc5ea260a
+  - enabled: 1
+    path: Assets/Scenes/ToBeContinet.unity
+    guid: 49456513a57e7bb4b985ded44df5eef5
+  m_configObjects: {}
